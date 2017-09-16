@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Jekyll!"
+date:   2017-09-15 11:37:33 +0800
+categories: jekyll update
+---
+
+### Jekyll简介
+
+Jekyll可以用来生成简单的、用于博客的静态网页.用Ruby来写的开源软件.
+
+### github page 配制 
+
+github page 支持的[theme][2]
+
+github page 支持的[plugin][2]
+
+
+[1]: https://pages.github.com/versions/\
+[2]:https://pages.github.com/themes/
